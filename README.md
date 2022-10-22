@@ -1,7 +1,7 @@
 <p>Clarusway<img align="right"
   src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Project-003 : Task Tracker (RP-03)
+# asp-react-task-tracker
 
 ## Description
 
@@ -14,7 +14,7 @@ Project aims to create a Task Tracker App.
 ## Project Skeleton
 
 ```
-003 - Task Tracker (folder)
+Task Tracker (folder)
 |
 |----readme.md         # Given to the students (Definition of the project)
 SOLUTION
